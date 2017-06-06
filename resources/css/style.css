@@ -26,7 +26,13 @@ h3 {
   text-align: center;
 }
 p {
+  font-family: Verdana;
+  font-size: 21 px;
   text-align: center;
+  color: grey;
+}
+.footer p{
+  text-align: right;
 }
 body {
   background-color: black;
